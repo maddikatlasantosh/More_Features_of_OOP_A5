@@ -1,3 +1,9 @@
+/*
+Author: Santosh Maddikatla 
+Roll No: 2646
+Batch : 4
+Program : Program to manage DSCT (Goa Business School) records for the NIRF Submission.
+*/
 import java.util.*;
 import java.io.*;
 
